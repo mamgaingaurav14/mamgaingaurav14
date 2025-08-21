@@ -1,4 +1,4 @@
-# Hi there, I'm Gaurav 👋  
+# Hi there, I'm Gaurav Mamgain 👋  
 
 ### 🚀 Aspiring Software Engineer | Final Year B.Tech CSE @ IIIT Bhopal  
 
@@ -46,7 +46,7 @@ Currently focused on **Backend Development, AI/ML, and Biometric Security Resear
 ---
 
 ## 📜 Achievements
-- **Achieved exceptional SGPA grades 9.45,9.05,8.75 in mutiple semesters 
+-   Achieved exceptional SGPA grades like **9.45, 9.05, 8.75** mutiple times .
 - **98 Percentile** in JEE Mains   
 - **700+ Coding problems solved** across major platforms  
 
